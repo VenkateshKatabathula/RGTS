@@ -4,7 +4,7 @@
   <groupId>com.railwayGeneralTicketing</groupId>
   <artifactId>RailwayGeneralTicketingSystem</artifactId>
   <packaging>war</packaging>
-  <version>1.0.1</version>
+  <version>1.0.3</version>
   <name>RailwayGeneralTicketingSystem Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
